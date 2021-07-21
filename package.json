@@ -1,0 +1,14 @@
+{
+  "name": "@manage-invite/manage-invite.js",
+  "version": "1.0.0",
+  "description": "Node.js client to interact with the official ManageInvite API",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "repository": "https://github.com/manage-invite/manage-invite-api-node-client",
+  "author": "Androz2091 <androz2091@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@manage-invite/manage-invite-db-client": "^1.0.29",
+    "node-fetch": "^2.6.1"
+  }
+}
