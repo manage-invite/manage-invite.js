@@ -11,8 +11,10 @@ ManageInvite.js is a Node.js library to interact with the [official ManageInvite
 ## Installation
 
 ```sh
-npm install @manage-invite/manage-invite.js
+npm install manage-invite/manage-invite.js
 ```
+
+(or using Github Packages if you need versioning)
 
 ## Example
 

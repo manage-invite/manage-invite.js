@@ -4,7 +4,7 @@
   "description": "Node.js client to interact with the official ManageInvite API",
   "main": "index.js",
   "types": "./index.d.ts",
-  "repository": "https://github.com/manage-invite/manage-invite-api-node-client",
+  "repository": "https://github.com/manage-invite/manage-invite.js",
   "author": "Androz2091 <androz2091@gmail.com>",
   "license": "MIT",
   "dependencies": {
